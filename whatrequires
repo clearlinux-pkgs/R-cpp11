@@ -1,5 +1,7 @@
 # This file contains recursive sources that require this package
+R-mice
 R-readr
 R-systemfonts
 R-textshaping
 R-tidyr
+R-vcr
