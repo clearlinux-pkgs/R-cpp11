@@ -4,7 +4,7 @@
 #
 Name     : R-cpp11
 Version  : 0.3.1
-Release  : 12
+Release  : 13
 URL      : https://cran.r-project.org/src/contrib/cpp11_0.3.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/cpp11_0.3.1.tar.gz
 Summary  : A C++11 Interface for R's C Interface
