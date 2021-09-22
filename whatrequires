@@ -1,8 +1,14 @@
 # This file contains recursive sources that require this package
+R-haven
 R-mice
 R-readr
+R-roxygen2
 R-svglite
 R-systemfonts
 R-textshaping
 R-tidyr
+R-tzdb
 R-vcr
+R-vdiffr
+R-vroom
+R-wk
