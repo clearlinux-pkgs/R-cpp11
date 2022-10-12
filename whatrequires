@@ -1,8 +1,10 @@
 # This file contains recursive sources that require this package
 R-haven
+R-lobstr
 R-lubridate
 R-mice
 R-readr
+R-readxl
 R-roxygen2
 R-svglite
 R-systemfonts
