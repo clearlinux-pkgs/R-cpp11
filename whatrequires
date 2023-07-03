@@ -1,7 +1,9 @@
 # This file contains recursive sources that require this package
+R-RSQLite
+R-clock
 R-haven
+R-igraph
 R-lobstr
-R-lubridate
 R-mice
 R-readr
 R-readxl
@@ -10,7 +12,7 @@ R-svglite
 R-systemfonts
 R-textshaping
 R-tidyr
+R-timechange
 R-tzdb
-R-vcr
 R-vdiffr
 R-vroom
