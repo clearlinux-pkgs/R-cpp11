@@ -7,7 +7,7 @@
 #
 Name     : R-cpp11
 Version  : 0.5.0
-Release  : 37
+Release  : 38
 URL      : https://cran.r-project.org/src/contrib/cpp11_0.5.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/cpp11_0.5.0.tar.gz
 Summary  : A C++11 Interface for R's C Interface
